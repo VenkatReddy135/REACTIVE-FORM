@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "userName": "venkat",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 1
+    },
+    {
+      "userName": "venkat reddy Bogala",
+      "password": "venkat@123",
+      "confirmPassword": "Venkat@123",
+      "id": 2
+    },
+    {
+      "userName": "venkat",
+      "password": "hasfas",
+      "confirmPassword": "asasas",
+      "id": 3
+    },
+    {
+      "userName": "venkat",
+      "password": "sasasasasas",
+      "confirmPassword": "asasasas",
+      "id": 4
+    },
+    {
+      "userName": "venkat",
+      "password": "asasasa",
+      "confirmPassword": "asasas",
+      "id": 5
+    },
+    {
+      "userName": "venkat",
+      "password": "sasaasa",
+      "confirmPassword": "sasas",
+      "id": 6
+    },
+    {
+      "userName": "venkat",
+      "password": "sasaas",
+      "confirmPassword": "asa",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
